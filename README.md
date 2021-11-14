@@ -12,7 +12,7 @@ My Online CV- <a href ="https://aryanaruni.github.io/resume/index.html" target="
 <hr>
 
 
-[![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviaryanaruni&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/aviaryanaruni/github-readme-stats)
+<!-- [![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviaryanaruni&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/aviaryanaruni/github-readme-stats) -->
 
 
 
