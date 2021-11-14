@@ -12,11 +12,8 @@ My Online CV- <a href ="https://aryanaruni.github.io/resume/index.html" target="
 <hr>
 
 
+[![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviaryanaruni&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/aviaryanaruni/github-readme-stats)
 
-
-👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/aviaryanaruni) and add to my knowledge! 
-
-<a href="https://www.buymeacoffee.com/aviaryanaruni" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
 
 
 <!--
