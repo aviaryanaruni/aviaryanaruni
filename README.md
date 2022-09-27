@@ -8,11 +8,8 @@ I'm beginner in the coding world, passionate about coding & learning different l
   Follow me on Twitter- <a href ="https://twitter.com/aryanaruni" target="_blank">Link</a><br>
   Follow me on Instagram- <a href ="https://www.instagram.com/lord_._aryan/" target="_blank">Link</a><br>
 <hr>
-My Online CV- <a href ="https://aryanaruni.github.io/resume/index.html" target="_blank">Link</a><br>
-<hr>
-
-
-<!-- [![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviaryanaruni&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/aviaryanaruni/github-readme-stats) -->
+  Online CV- <a href ="www.aryanaruni.com" target="_blank">Aryan Aruni</a><br>
+<hr> 
 
 
 
