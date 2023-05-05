@@ -11,6 +11,12 @@ I'm beginner in the coding world, passionate about coding & learning different l
   Online CV- <a href ="https://www.aryanaruni.com" target="_blank">Aryan Aruni</a><br>
 <hr> 
 
+<h2>The Stats</h2>
+  <p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviaryanaruni&" alt="aryanaruni" /><br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aviaryanaruni&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=aviaryanaruni&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </p>
 
 
 <!--
