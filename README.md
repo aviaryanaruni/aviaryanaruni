@@ -14,7 +14,7 @@ I'm beginner in the coding world, passionate about coding & learning different l
 <h2>The Stats</h2>
   <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviaryanaruni&" alt="aryanaruni" /><br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aviaryanaruni&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aviaryanaruni&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=aviaryanaruni&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   </p>
