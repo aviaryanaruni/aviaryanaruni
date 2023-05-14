@@ -10,6 +10,11 @@ I'm beginner in the coding world, passionate about coding & learning different l
 <hr>
   CV/Portfolio- <a href ="https://www.aryanaruni.com" target="_blank">Aryan Aruni</a><br>
 <hr> 
+<hr>
+  Personal Github - <a href ="https://github.com/aryanaruni" target="_blank">aryanaruni</a><br>
+<hr> 
+
+
 
 <h2>The Stats</h2>
   <p align="center">
